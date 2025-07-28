@@ -11,3 +11,4 @@ anthropic>=0.3.11
 requests>=2.31.0
 streamlit_plotly_events
 matplotlib
+openpyxl
